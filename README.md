@@ -30,8 +30,7 @@ public class KombinasyonHesaplama {
 		}
 		for (int s = 1; s <= (n-r); s++) {
 			//N-R!
-			total3 *= s;
-			
+			total3 *= s;	
 		}
 		c = total/(total2*total3);
 		System.out.println("Sonuç :"+c);
