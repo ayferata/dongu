@@ -35,9 +35,6 @@ public class KombinasyonHesaplama {
 		c = total/(total2*total3);
 		System.out.println("Sonuç :"+c);
 		
-		
-		
-		
 	}
 
 }
