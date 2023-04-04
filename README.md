@@ -23,8 +23,6 @@ public class KombinasyonHesaplama {
 		for (int i = 1, j = 1; i <= n; i++) {
 			//N!
 			total *= i;
-			
-
 		}
 		for (int j = 1; j <= r; j++) {
 			//R!
