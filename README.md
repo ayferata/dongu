@@ -27,7 +27,6 @@ public class KombinasyonHesaplama {
 		for (int j = 1; j <= r; j++) {
 			//R!
 			total2 *= j;
-
 		}
 		for (int s = 1; s <= (n-r); s++) {
 			//N-R!
